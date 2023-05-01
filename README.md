@@ -15,11 +15,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danghoangphuong&repo=KMeans-Visualisation&theme=radical" />
 </a>
 
-<a href="https://github.com/danghoangphuong/KMeans-Picture-Compress">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danghoangphuong&repo=KMeans-Picture-Compress&theme=merko" />
-</a>
-
 
 <a href="https://github.com/danghoangphuong/LinearRegression-fitting-line">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
