@@ -23,5 +23,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=LinearRegression-fitting-line&theme=gruvbox" />
 </a> 
-
+<a href="https://github.com/danghoangphuong/LinearRegression-fitting-parabol/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=LinearRegression-fitting-parabol&theme=merko" />
+</a>
 
