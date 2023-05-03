@@ -32,3 +32,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=MP3_player_GUI&theme=shades-of-purple" />
 </a> 
+
+<a href="https://github.com/danghoangphuong/ASCII-ColorImage/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=ASCII-ColorImage&theme=blue-green" />
+</a>
