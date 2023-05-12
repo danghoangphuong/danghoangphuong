@@ -1,14 +1,4 @@
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=danghoangphuong&show_icons=true&theme=maroongold&hide=contribs,prs,issues"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=danghoangphuong&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=danghoangphuong&show_icons=true" />
-</picture>
+![Phuog's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danghoangphuong&show_icons=true&theme=vision-friendly-dark&hide=contribs,prs,issues)
 
 <a href="https://github.com/danghoangphuong/KMeans-Visualisation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
