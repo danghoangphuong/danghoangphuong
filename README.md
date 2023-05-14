@@ -8,32 +8,26 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=Semantic_Segmentation-UNet-Pytorch&theme=blue-green" />
 </a>
-
 <a href="https://github.com/danghoangphuong/KMeans-Picture-Compress/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=KMeans-Picture-Compress&theme=jolly" />
 </a>
-
 <a href="https://github.com/danghoangphuong/GradientDescent_in_LinearRegression/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=GradientDescent_in_LinearRegression&theme=vision-friendly-dark" />
 </a> 
-
 <a href="https://github.com/danghoangphuong/LinearRegression-fitting-line/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=LinearRegression-fitting-line&theme=gruvbox" />
 </a> 
-
 <a href="https://github.com/danghoangphuong/LinearRegression-fitting-parabol/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=LinearRegression-fitting-parabol&theme=merko" />
 </a>
-
 <a href="https://github.com/danghoangphuong/MP3_player_GUI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=MP3_player_GUI&theme=shades-of-purple" />
 </a> 
-
 <a href="https://github.com/danghoangphuong/ASCII-ColorImage/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=ASCII-ColorImage&theme=blue-green" />
