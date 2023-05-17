@@ -16,9 +16,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=GradientDescent_in_LinearRegression&theme=vision-friendly-dark" />
 </a> 
-<a href="https://github.com/danghoangphuong/https://github.com/danghoangphuong/LinearRegression/">
+
+<a href="https://github.com/danghoangphuong/LinearRegression">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=LinearRegression&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=LinearRegression&theme=yeblu" />
 </a> 
 <a href="https://github.com/danghoangphuong/KNN-MNIST_handwritten_digits">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
