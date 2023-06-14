@@ -1,3 +1,5 @@
+" It’s not who has the best algorithm that wins; It’s who has the most data " - Andrew Ng.
+
 ![Phuog's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danghoangphuong&show_icons=true&theme=vision-friendly-dark&hide=contribs,prs,issues)
 
 <a href="https://github.com/danghoangphuong/KMeans-Visualisation">
