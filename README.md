@@ -14,6 +14,11 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=Semantic_Segmentation-UNet-Pytorch&theme=jolly" />
 </a>
+<a href="https://github.com/danghoangphuong/Human_detection_yolov7/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=Human_detection_yolov7&theme=yeblu" />
+</a>
+
 <a href="https://github.com/danghoangphuong/FineTuning_VGG16_Pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=FineTuning_VGG16_Pytorch&theme=jolly" />
