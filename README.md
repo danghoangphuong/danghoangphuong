@@ -19,6 +19,10 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=Human_detection_yolov7&theme=yeblu" />
 </a>
 
+<a href="https://github.com/danghoangphuong/CRNN_CTCLoss_OCR/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=CRNN_CTCLoss_OCR&theme=vision-friendly-dark" />
+</a>
 <a href="https://github.com/danghoangphuong/FineTuning_VGG16_Pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=FineTuning_VGG16_Pytorch&theme=jolly" />
@@ -28,7 +32,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=GradientDescent_in_LinearRegression&theme=vision-friendly-dark" />
 </a> 
-
 <a href="https://github.com/danghoangphuong/LinearRegression">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=LinearRegression&theme=vision-friendly-dark" />
