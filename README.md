@@ -5,9 +5,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=STM32_Digital_Watch&theme=vision-friendly-dark" />
 </a> 
-<a href="https://github.com/danghoangphuong/STM32_AdaptiveCruiseControl_Simulation_with_PIDController">
+<a href="https://github.com/danghoangphuong/STM32_ACC_with_PIDController/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=STM32_AdaptiveCruiseControl_Simulation_with_PIDController&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=STM32_ACC_with_PIDController&theme=jolly" />
 </a>
 <a href="https://github.com/danghoangphuong/KMeans-Visualisation">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
