@@ -1,3 +1,7 @@
+<a href="https://github.com/danghoangphuong/STM32_DIY_Calculator">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=danghoangphuong&repo=STM32_DIY_Calculator&theme=chartreuse-dark" />
+</a> 
 
 <a href="https://github.com/danghoangphuong/STM32_Macro_Keyboard">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
